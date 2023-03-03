@@ -1,0 +1,11 @@
+git init 
+git add .
+git commit -m "first commit"
+git branch -M askhat
+git checkout askhat
+git remote add origin ссылка к репазитори
+git push -u origin askhat
+###########################
+удаление
+git remote remove origin
+можно удалить в ручную с рабочего стола
